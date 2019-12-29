@@ -14,7 +14,9 @@ public class TestGit {
         System.out.println("lisi");
         System.out.println("lisi");
 
+//        nasklfk
         System.out.println("wangwu");
+        System.err.println("adgl");
         System.out.println("wangwu");
         System.out.println("wangwu");
 
