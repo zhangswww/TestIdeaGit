@@ -11,6 +11,8 @@ public class TestGit {
         System.out.println("zhangsan");
         System.out.println("zhangsan");
         System.out.println("lisi");
+        System.out.println("真垃圾");
+        System.out.println("真");
         System.out.println("lisi");
         System.out.println("lisi");
 
