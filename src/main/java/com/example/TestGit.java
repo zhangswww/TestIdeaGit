@@ -12,7 +12,18 @@ public class TestGit {
         System.out.println("zhangsan");
         System.out.println("lisi");
         System.out.println("lisi");
+        //asdfnkl
+        System.err.println("asdasf");
+
+
         System.out.println("lisi");
+        System.err.println("asfklasjfklasfasgn" +
+                "asasjkgnajg" +
+                "asgnkljn");
+        System.out.println("lisi");
+        System.out.println("asfklasjfklasfasgn" +
+                "asasjkgnajg" +
+                "asgnkljn");
 
         System.out.println("wangwu");
         System.out.println("wangwu");
